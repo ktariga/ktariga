@@ -1,8 +1,8 @@
 # Olá! Eu sou o Kleiton Tariga 👋
 
-Fiz este perfil novo para organizar melhor meus projetos e contribuições. Você pode encontrar meu perfil antigo <span style="font-size: 20px;">[aqui](https://github.com/kleitontariga)</span>.
+Fiz este perfil novo para organizar melhor meus projetos e contribuições. Você pode encontrar meu perfil antigo <span style="font-size: 25px;">[aqui](https://github.com/kleitontariga)</span>.
 
-Sou um entusiasta da Tecnologia da Informação, atualmente cursando <span style="font-size: 20px;">**Análise e Desenvolvimento de Sistemas**</span> na <span style="font-size: 20px;">**Uniritter**</span>. Sou formado em <span style="font-size: 20px;">**Técnico em Informática para Internet**</span> pela <span style="font-size: 20px;">**QI Faculdade & Escola Técnica**</span> e também tenho formação em <span style="font-size: 20px;">**História**</span> pela <span style="font-size: 20px;">**Uniritter**</span>. Apesar do meu passado acadêmico em História, meu foco agora é na área de T.I, onde estou sempre em processo de aprendizagem e desenvolvimento de novas habilidades.
+Sou um entusiasta da Tecnologia da Informação, atualmente cursando <span style="font-size: 25px;">**Análise e Desenvolvimento de Sistemas**</span> na <span style="font-size: 25px;">**Uniritter**</span>. Sou formado em <span style="font-size: 25px;">**Técnico em Informática para Internet**</span> pela <span style="font-size: 25px;">**QI Faculdade & Escola Técnica**</span> e também tenho formação em <span style="font-size: 20px;">**História**</span> pela <span style="font-size: 20px;">**Uniritter**</span>. Apesar do meu passado acadêmico em História, meu foco agora é na área de T.I, onde estou sempre em processo de aprendizagem e desenvolvimento de novas habilidades.
 
 ## Contato
 - 📧 Email: [Principal](mailto:kleiton.mattos@gmail.com) | [Secundário](mailto:kleiton.tariga@gmail.com)
