@@ -6,7 +6,7 @@ Fiz este perfil novo para organizar melhor meus projetos e contribuições. Voc�
 Sou um entusiasta da Tecnologia da Informação, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Uniritter. Sou formado em **Técnico em Informática para Internet** pela QI Faculdade & Escola Técnica e também tenho formação em **História** pela Uniritter. Apesar do meu passado acadêmico em História, meu foco agora é na área de T.I, onde estou sempre em processo de aprendizagem e desenvolvimento de novas habilidades.
 
 ## Contato
-- 📧 Email: [kleiton.mattos@gmail.com](mailto:kleiton.mattos@gmail.com) | [kleiton.tariga@gmail.com](mailto:kleiton.tariga@gmail.com)
+- 📧 Email: [Principal](mailto:kleiton.mattos@gmail.com) | [Secundário](mailto:kleiton.tariga@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kleiton-tariga-176243144/)
 
 ## Projetos
